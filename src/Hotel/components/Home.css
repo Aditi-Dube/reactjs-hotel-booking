@@ -1,0 +1,47 @@
+h1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-style: italic;
+    text-align: center;
+}
+.nav-item1{
+    padding-left: 600px;
+    
+  }
+h4{
+    font-style: italic;
+}
+
+  h5{
+      color: white;
+      font-style: oblique;
+  }
+  
+    
+    /* .card-body{
+        background-color: whitesmoke;
+        text-align: center;
+        color:rgb(245, 13, 245);
+    } */
+    
+    /* .card{
+        padding-top: 0px;
+        display: inline-flex;
+        background-color:darkslategrey;
+        transition: transform .2s;
+        margin: 33px;
+        margin-left: 43px;
+    } */
+    li:hover {
+        transform: scale(1.1) 
+      }
+
+    /* #hpara{
+        margin-top:20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    } */
+    /* .nav-link{
+        padding-left: 13px;
+  padding-top: 13px;
+    }  */
